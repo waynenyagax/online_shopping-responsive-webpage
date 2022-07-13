@@ -1,1 +1,1 @@
-# online_shopping-responsive-webpage
+# online_shopping-responsive-web-application
